@@ -1,1 +1,5 @@
-echo "hello from GitHub!"
+agents:
+  queue: "ecfrankfurt"
+
+steps:
+  - command: "hello from GitHub!"
