@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+
+  <test name="Test   
+ Execution 1">
+    <classes>
+      <class name="your.package.TestClass1" />
+    </classes>
+  </test> 
+
+  <test name="Test Execution 2">
+    <classes>
+      <class name="your.package.TestClass2" />
+    </classes>
+  </test> 
+
+  <test name="Test Execution 3">
+    <classes>
+      <class name="your.package.TestClass3" />
+    </classes>
+  </test> 
+
+  <test name="Test Execution 4">
+    <classes>
+      <class name="your.package.TestClass4" />
+    </classes>
+  </test> 
+
+  <test name="Test Execution 5">
+    <classes>
+      <class name="your.package.TestClass5" />
+    </classes>
+  </test> 
+
+  <test name="Test Execution 6">
+    <classes>
+      <class name="your.package.TestClass6" />
+    </classes>
+  </test> 
+
+  <test name="Test Execution 7">
+    <classes>
+      <class name="your.package.TestClass7" />
+    </classes>
+  </test> 
+
+  <test name="Test Execution 8">
+    <classes>
+      <class name="your.package.TestClass8" />
+    </classes>
+  </test> 
+
+  <test name="Test Execution 9">
+    <classes>
+      <class name="your.package.TestClass9" />
+    </classes>
+  </test> 
+
+  <test name="Test Execution 10">
+    <classes>
+      <class name="your.package.TestClass10" />
+    </classes>
+  </test> 
+</suite>
